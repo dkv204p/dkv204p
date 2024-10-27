@@ -7,7 +7,7 @@ $ whoami
 > Dev Verma
 ```
 
-I'm a passionate developer and ethical hacker based in Ahmedabad, Gujarat. I thrive on exploring new technologies and contributing to open-source projects. My specialties include building secure web applications and crafting innovative blockchain solutions.
+Enthusiastic B.Tech CSE student specializing in Blockchain Technology. Aspiring Ethical Hacker and Full-Stack Web Developer with a focus on enhancing cybersecurity. Possess expertise in ICSI CNSS. Eager to contribute to innovative projects and connect with like-minded professionals. Open to networking and exploring opportunities in the ever-evolving tech landscape.
 
 ---
 
@@ -21,23 +21,28 @@ languages:
   - JavaScript
   - PHP
   - SQL
+
 frameworks:
   - Flask
   - Django
+
 web_technologies:
   - HTML
   - CSS
   - Bootstrap
+
 databases:
   - MySQL
   - PostgreSQL
   - SQLite
+
 tools:
   - Git
   - GitHub
   - VS Code
   - Eclipse
   - pgAdmin
+
 additional_skills:
   - Ethical Hacking
   - Information Network Security
