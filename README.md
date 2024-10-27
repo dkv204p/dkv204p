@@ -66,7 +66,7 @@ Here are some highlighted projects that I have worked on:
     <img src="https://img.shields.io/badge/Email-devverma.tech2026%40gmail.com-red?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/dev_v.11/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40your_instagram_username-E4405F?style=flat&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-%40dev_v.11-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
