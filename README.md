@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Dev Verma 
+# 👋 Hello, I'm Dev Verma
 
 ### 🌐 Ethical Hacker | Full-Stack Web Developer | ICSI CNSS Certified
 
@@ -65,8 +65,13 @@ additional_skills:
 
 Here are some highlighted projects that I have worked on:
 
-- **[BlockWeaver-Blockchain-App](https://github.com/dkv204p/BlockWeaver-Blockchain-App)**  
-  A secure blockchain app for decentralized data management using Flask, PostgreSQL, and Bootstrap. Users can submit transactions, mine blocks, and view the blockchain.
+- **[Decentralized Notes Storage](https://github.com/dkv204p/Decentralized-Notes-Storage)**  
+  A blockchain-based dApp where users can securely store, view, and manage their notes on the Ethereum blockchain. Built using React.js, Truffle, Solidity, and Web3.js.  
+  
+  **Features:**  
+  🏩 Decentralized data storage.  
+  🔑 MetaMask integration for secure transactions.  
+  🌐 Future updates: Editing & deleting notes.  
 
 - **[SPAM-HAM Classification using NLP](https://github.com/dkv204p/SPAM-HAM-Classification-using-NLP)**  
   A machine learning model for text message classification using Naive Bayes and NLP techniques.
