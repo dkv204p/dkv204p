@@ -65,7 +65,7 @@ additional_skills:
 
 Here are some highlighted projects that I have worked on:
 
-- **[Decentralized Notes Storage](https://github.com/dkv204p/Decentralized-Notes-Storage)**  
+- **[Decentralized Notes Storage](https://github.com/dkv204p/notes-storage-dapp)**  
   A blockchain-based dApp where users can securely store, view, and manage their notes on the Ethereum blockchain. Built using React.js, Truffle, Solidity, and Web3.js.  
   
   **Features:**  
